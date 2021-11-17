@@ -2,8 +2,11 @@
  ###            Mr Ihsan 
  
  
-#### ( Pakistan 🇵🇰 👋 )
-![Earth](https://user-images.githubusercontent.com/79760783/142290143-a7128b91-b48a-46fc-89ab-60c3d5361daa.gif)
+#### ( Pakistan 🇵🇰 👋 ) 
+
+
+![CarefreeWhiteEnglishsetter-size_restricted](https://user-images.githubusercontent.com/79760783/142293129-7c6d4318-e29b-41e4-b1fc-289685ca6801.gif)
+
 
 
 
