@@ -1,3 +1,12 @@
+<h3><b><i>☠️ Github Statistics :</i></b></h3>
+<a href="https://github.com/HACKERIHSAN"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=HACKERIHSAN&theme=monokai"></a>
+</p>  
+<p align="center"> 
+ 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
+ <img src="https://profile-counter.glitch.me/HACKERIHSAN/count.svg" />
+</p>
+
+
 <h1 align="center"> Hello Word :) </h1>
 <p align="center">
 •●•
