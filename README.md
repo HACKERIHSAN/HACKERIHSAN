@@ -1,10 +1,4 @@
-<h3><b><i>☠️ Github Statistics :</i></b></h3>
-<a href="https://github.com/HACKERIHSAN"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=HACKERIHSAN&theme=monokai"></a>
-</p>  
-<p align="center"> 
- 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
- <img src="https://profile-counter.glitch.me/HACKERIHSAN/count.svg" />
-</p>
+
 
 
 <h1 align="center"> Hello Word :) </h1>
@@ -43,6 +37,14 @@
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 <code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a></code>
 <br/><br/>
+</p>
+
+<h3><b><i>☠️ Github Statistics :</i></b></h3>
+<a href="https://github.com/HACKERIHSAN"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=HACKERIHSAN&theme=monokai"></a>
+</p>  
+<p align="center"> 
+ 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
+ <img src="https://profile-counter.glitch.me/HACKERIHSAN/count.svg" />
 </p>
 
 #### contact me
