@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cool&color=%23F7671C&center=true&vCenter=true&lines=Ⓞ︎Ⓦ︎Ⓝ︎Ⓔ︎Ⓡ︎+𝗠𝗿+𝗜𝗵𝘀𝗮𝗻)](https://git.io/typing-svg)
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cool&color=%23F7671C&center=true&vCenter=true&lines=WELCOME+TO+MY+PROFILE+)](https://git.io/typing-svg)
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cool&color=%239766FF&center=true&vCenter=true&lines=HaxooR+Ihsan+THE+BRAND+!;HATERX+MAKES+MEH+FAMOUS+)](https://git.io/typing-svg)
 ![94b8950613636741e0cb8d24e4ec2d1c](https://user-images.githubusercontent.com/72184388/115982559-89883200-a5b5-11eb-8b23-10b9099f5d68.gif)
